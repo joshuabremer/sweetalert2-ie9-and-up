@@ -1,5 +1,5 @@
 /*!
- * sweetalert2 v4.0.8
+ * sweetalert2 v4.0.9
  * Released under the MIT License.
  */
 (function (global, factory) {
@@ -1293,7 +1293,7 @@
     modalParams = extend({}, defaultParams);
   };
 
-  sweetAlert.version = '4.0.8';
+  sweetAlert.version = '4.0.9';
 
   window.sweetAlert = window.swal = sweetAlert;
 
